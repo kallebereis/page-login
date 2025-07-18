@@ -6,7 +6,10 @@
 }
 
 body {
-  background: url(/src/images/bg-fundo.png) top center no-repeat;
+  background-image: url(/src/images/bg-fundo.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
   display: flex;
   align-items: center;
