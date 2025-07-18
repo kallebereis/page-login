@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url(/src/images/bg-fundo.png);
+  background-image: url('../images/bg-fundo.png');
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
